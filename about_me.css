@@ -1,0 +1,27 @@
+body{
+    background-color: lemonchiffon;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h3{
+    background-color: tomato;  padding: 20px;
+    color: white;
+}
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    border: 3px crimson dotted;
+    padding: 10px;
+}
+
+ol {
+    border: 3px slateblue solid;
+}
+
+ul{
+    border: 3px springgreen solid;
+}
